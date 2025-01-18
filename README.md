@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Segunda atividade do módulo 2 do curso desenvolvimento web.
 
 ## Getting Started
 
